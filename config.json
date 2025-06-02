@@ -3,7 +3,7 @@
     {
       "topic": "Used Cars 2014+ under 25k with Images",
       "url": "https://www.yad2.co.il/vehicles/cars?manufacturer=48,21,27,19&model=10273,10276,10332,10701,10226,10711&carFamilyType=2,1&year=2014--1&price=5000-25000&km=0-150000&ownerID=1,1&area=71,78,4,3,1,10,11,98,9,51,8,92,71,78,4,3,1,10,11,98,9,51,8,92,71,78,4,3,1,10,11,98,9,51,8,92,71,78,4,3,1,10,11,98,9,51,8,92,17,70,42,81,54,18,17,70,42,81,54,18,17,70,42,81,54,18,17,70,42,81,54,18&gearBox=102&imgOnly=1&yad2_source=latestSearchesPage",
-       "disabled": true
+       "disabled": false
     }
   ]
 }
